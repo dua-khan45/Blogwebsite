@@ -27,7 +27,7 @@ export const SocialCategory = async () => {
   return (
     <div className="   mt-16 mb-10">
       <h2 className="text-center text-xl font-bold  sm:text-[22px] md:text-[26px] xl:text-[30px]">Follow Me Instagram </h2>
-  <h1 className="font-bold text-center text-yellow-700 mb-10 ">@hamzastudio</h1>
+  <h1 className="font-bold text-center text-yellow-700 mb-10 ">@Dua khan </h1>
       <Carousel>
         <CarouselContent>
           {data.map((val:InstaType, i:number) => {

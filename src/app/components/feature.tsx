@@ -44,7 +44,7 @@ const Feature = ({ data = [] }: { data: Array<{ text: string; imageUrl: string; 
               <div>
             <h1 className='font-black font-serif mb-2  mt-2 hover:scale-105 transition duration-500'>{val.text}</h1></div>
             <p className='text-gray-600 text-[13px] mb-2 '>{val.paragraph}</p>
-            <h5 className='text-[13px] font-semibold hover:scale-105 transition duration-500'><span className='font-black text-yellow-500 underline text-[13px] mt-auto'>Solo Travel</span> by Hamza</h5>
+            <h5 className='text-[13px] font-semibold hover:scale-105 transition duration-500'><span className='font-black text-yellow-500 underline text-[13px] mt-auto'>Solo Travel</span> by Dua khan</h5>
           </div></div>
         ))}
       </div>

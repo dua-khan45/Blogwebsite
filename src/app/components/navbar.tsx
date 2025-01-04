@@ -13,7 +13,7 @@ export default function Navbar() {
       <div className='flex justify-evenly mt-2 mb-2 mx-4 es:mx-0 '>
         {/*Logo */}
         <div>
-          <h1 className='text-center mt-1 text-[9px] font-semibold text-white -500 leading-3 es:text-[10px] sm:text-[15px] scale-105'><strong className='text-yellow-400 font-black'>Ha</strong>mza  Trav<strong className='text-yellow-400'>el</strong> <br /> <strong className='text-sky-200 '>Guide</strong></h1>
+          <h1 className='text-center mt-1 text-[9px] font-semibold text-white -500 leading-3 es:text-[10px] sm:text-[15px] scale-105'><strong className='text-yellow-400 font-black'>Du</strong>a Trav<strong className='text-yellow-400'>el</strong> <br /> <strong className='text-sky-200 '>Guide</strong></h1>
         </div>
          <div>
         <input type="text" className='rounded-full text-black border-2 h-6 sm:h-7 border-slate-500 es:h-6   placeholder:text-[10px] placeholder:pl-3 w-28  es:w-48 sm:w-56 lg:w-80 lg:h-8' placeholder='Search Your option'/>
